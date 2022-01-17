@@ -1,0 +1,3 @@
+$(() =>  {
+    $("p").addClass("float-right");
+});
